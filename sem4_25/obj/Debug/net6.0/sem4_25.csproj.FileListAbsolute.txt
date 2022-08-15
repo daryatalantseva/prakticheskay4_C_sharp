@@ -1,0 +1,15 @@
+D:\Education\block3\praktika4\sem4_25\bin\Debug\net6.0\sem4_25.exe
+D:\Education\block3\praktika4\sem4_25\bin\Debug\net6.0\sem4_25.deps.json
+D:\Education\block3\praktika4\sem4_25\bin\Debug\net6.0\sem4_25.runtimeconfig.json
+D:\Education\block3\praktika4\sem4_25\bin\Debug\net6.0\sem4_25.dll
+D:\Education\block3\praktika4\sem4_25\bin\Debug\net6.0\sem4_25.pdb
+D:\Education\block3\praktika4\sem4_25\obj\Debug\net6.0\sem4_25.csproj.AssemblyReference.cache
+D:\Education\block3\praktika4\sem4_25\obj\Debug\net6.0\sem4_25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\block3\praktika4\sem4_25\obj\Debug\net6.0\sem4_25.AssemblyInfoInputs.cache
+D:\Education\block3\praktika4\sem4_25\obj\Debug\net6.0\sem4_25.AssemblyInfo.cs
+D:\Education\block3\praktika4\sem4_25\obj\Debug\net6.0\sem4_25.csproj.CoreCompileInputs.cache
+D:\Education\block3\praktika4\sem4_25\obj\Debug\net6.0\sem4_25.dll
+D:\Education\block3\praktika4\sem4_25\obj\Debug\net6.0\refint\sem4_25.dll
+D:\Education\block3\praktika4\sem4_25\obj\Debug\net6.0\sem4_25.pdb
+D:\Education\block3\praktika4\sem4_25\obj\Debug\net6.0\sem4_25.genruntimeconfig.cache
+D:\Education\block3\praktika4\sem4_25\obj\Debug\net6.0\ref\sem4_25.dll
